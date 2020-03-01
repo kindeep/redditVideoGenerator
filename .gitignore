@@ -1,0 +1,16 @@
+venv/
+.idea/
+.vscode
+__pycache__
+
+# temporary/out files
+media
+_temp_idk
+*.mp4
+*.mp3
+
+# Authorization files
+client_secrets.json
+reddit_secret.json
+*py-oauth2.json
+*py-oauth2.json
